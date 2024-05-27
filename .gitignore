@@ -1,0 +1,6 @@
+#Ignore venv
+venv
+
+#cache files
+__pyache__
+managed_context
