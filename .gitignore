@@ -4,3 +4,4 @@ venv
 #cache files
 __pyache__
 managed_context
+test_suite_analysis
