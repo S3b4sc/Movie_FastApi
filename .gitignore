@@ -2,10 +2,8 @@
 venv
 
 #cache files
-__pyache__
-managed_context
-test_suite_analysis
-main.cpython-310.pyc
-jwt_manager.cpython-310.pyc
-__init__.cpython-310.pyc
-movie.cpython-310.pyc
+__pycache__
+
+
+#Database
+database.sqlite
