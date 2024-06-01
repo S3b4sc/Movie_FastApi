@@ -3,7 +3,7 @@ venv
 
 #cache files
 __pycache__
-
+test_suite_analysis
 
 #Database
 database.sqlite
